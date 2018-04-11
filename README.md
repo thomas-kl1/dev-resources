@@ -18,3 +18,4 @@ Hover.css	http://ianlunn.github.io/Hover/	Plein d'effets de hover, pur css
 
 
 
+https://www.slideshare.net/atwix/igor-miniailo-magento-2-api-design-best-practices
