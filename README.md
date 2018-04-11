@@ -19,3 +19,8 @@ Hover.css	http://ianlunn.github.io/Hover/	Plein d'effets de hover, pur css
 
 
 https://www.slideshare.net/atwix/igor-miniailo-magento-2-api-design-best-practices
+
+https://softwareengineering.stackexchange.com/questions/151733/if-immutable-objects-are-good-why-do-people-keep-creating-mutable-objects?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+
+https://martinfowler.com/bliki/ValueObject.html
