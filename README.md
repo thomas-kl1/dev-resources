@@ -1,5 +1,12 @@
 # Public resources for developers
 
+Resources for the developers in love with beautiful code :heart:
+
+- [Frontend Resources :sunglasses:](#frontend)
+- [Backend Resources :fire:](#backend)
+- [Architecture Engineering :neckbeard:](#architecture-engineering)
+- [Magento 2 Practices :boom:](#magento-2)
+
 ## Frontend
 
 | Name | Link | Description |
@@ -24,4 +31,10 @@
 |---|---|---|
 | Value Object | https://martinfowler.com/bliki/ValueObject.html |  |
 | Immutable Objects | https://softwareengineering.stackexchange.com/questions/151733/if-immutable-objects-are-good-why-do-people-keep-creating-mutable-objects |  |
+
+
+## Magento 2
+
+| Name | Link | Description |
+|---|---|---|
 | Magento 2 API pratices | https://www.slideshare.net/atwix/igor-miniailo-magento-2-api-design-best-practices |  |
