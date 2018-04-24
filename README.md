@@ -31,7 +31,7 @@ Resources for the developers in love with beautiful code :heart:
 |---|---|---|
 | Value Object | https://martinfowler.com/bliki/ValueObject.html |  |
 | Immutable Objects | https://softwareengineering.stackexchange.com/questions/151733/if-immutable-objects-are-good-why-do-people-keep-creating-mutable-objects |  |
-
+| Design Patterns | https://sourcemaking.com | List of Design Patterns, Anti-Patterns, Refactoring and UML |
 
 ## Magento 2
 
