@@ -18,6 +18,8 @@ Resources for the developers in love with beautiful code :heart:
 | Lazysizes | https://github.com/aFarkas/lazysizes | Lazyloading for image and video sources. |
 | Lightbox | http://lokeshdhakar.com/projects/lightbox2/ | Opening and rendering of image in a lightbox. |
 | Hover.css | http://ianlunn.github.io/Hover/ | Hover effects in pure js |
+| Btn Particle Effect | https://tympanus.net/Development/ParticleEffectsButtons/ | Particle effects for buttons |
+| MyDevice.io | https://www.mydevice.io/ | Display the browser information |
 
 ## Backend
 
