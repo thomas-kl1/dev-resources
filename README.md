@@ -41,3 +41,4 @@ Resources for the developers in love with beautiful code :heart:
 | Name | Link | Description |
 |---|---|---|
 | Magento 2 API pratices | https://www.slideshare.net/atwix/igor-miniailo-magento-2-api-design-best-practices |  |
+| Blog of a Magento 2 Contributor | http://vinaikopp.com/blog/list/ |  |
