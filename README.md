@@ -35,6 +35,7 @@ Resources for the developers in love with beautiful code :heart:
 | Immutable Objects | https://softwareengineering.stackexchange.com/questions/151733/if-immutable-objects-are-good-why-do-people-keep-creating-mutable-objects |  |
 | Design Patterns | https://sourcemaking.com | List of Design Patterns, Anti-Patterns, Refactoring and UML |
 | Design Patterns | http://designpatternsphp.readthedocs.io | List of Design Patterns |
+| SOLID | https://nathanmcbride.io/magento2/SOLID-in-Magento-2 | Must have: implementation in Magento 2 |
 
 ## Magento 2
 
